@@ -1,12 +1,12 @@
-# Hey there 👋, welcome to my little corner of code — Simran here
+Hey there 👋, welcome to my little corner of code — Simran here
 
-I’m a coder fueled by curiosity, coffee, and a desire to turn ideas into reality.  
-What started as a simple fascination — *“what happens if I write this line?”* — has grown into a passion for building, experimenting, and delivering real-world solutions.
+I’m a coder fueled by curiosity, coffee, and a desire to turn ideas into reality.
+When I first wrote a line of code, I was fascinated by how a machine could read and execute my instructions. What started as a simple curiosity — “what happens if I write this line?” — has grown into a passion for building, experimenting, and delivering real-world solutions.
 
-On GitHub, you’ll find my experiments, learnings, and projects — from clean, intuitive front-end interfaces to robust backend systems and cloud-integrated solutions.  
+On GitHub, you’ll find my experiments, learnings, and projects — from clean, intuitive front-end interfaces to robust backend systems and cloud-integrated solutions.
 I enjoy writing readable code, refining solutions, and improving things one commit at a time.
 
-I’m always open to collaborating on meaningful, user-focused software. Let’s build something impactful together! 🚀  
+I’m always open to collaborating on meaningful, user-focused software. Let’s build something impactful together!
 
 ---
 
@@ -28,7 +28,6 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
   <img src="https://skillicons.dev/icons?i=express" width="45" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
   <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
@@ -41,14 +40,16 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
   <img src="https://skillicons.dev/icons?i=netlify" width="45" />
   <img src="https://skillicons.dev/icons?i=vscode" width="45" />
   <img src="https://skillicons.dev/icons?i=docker" width="45" />
+  <img src="https://skillicons.dev/icons?i=aws" width="45" />
 </p>
+
 
 
 <p align="center"><b>Familiarity With Programming Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" width="45" />
   <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://skillicons.dev/icons?i=c++" width="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
   <img src="https://skillicons.dev/icons?i=java" width="45" />
 </p>
 
