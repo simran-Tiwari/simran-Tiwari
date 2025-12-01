@@ -41,7 +41,6 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
   <img src="https://skillicons.dev/icons?i=netlify" width="45" />
   <img src="https://skillicons.dev/icons?i=vscode" width="45" />
   <img src="https://skillicons.dev/icons?i=docker" width="45" />
-  <img src="https://skillicons.dev/icons?i=figma" width="45" />
 </p>
 
 
@@ -49,7 +48,8 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" width="45" />
   <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://skillicons.dev/icons?i=c" width="45" />
+  <img src="https://skillicons.dev/icons?i=c++" width="45" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
 
 ## 📌 Pinned Projects
 
-<div align="center">
+<div >
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px; width:300px; display:inline-block; vertical-align:top; text-align:left;">
   <h3>🌐 Zoomera</h3>
@@ -88,20 +88,4 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
 </div>
 
 </div>
-
----
-
-## 📊 GitHub Contribution Heatmap
-
-<p align="center">
-  <img src="https://github.com/simran-Tiwari/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
-<p align="center">
-  View contributions year-wise:
-  <a href="https://github.com/simran-Tiwari?tab=overview&from=2022-01-01&to=2022-12-31">2022</a> |
-  <a href="https://github.com/simran-Tiwari?tab=overview&from=2023-01-01&to=2023-12-31">2023</a> |
-  <a href="https://github.com/simran-Tiwari?tab=overview&from=2024-01-01&to=2024-12-31">2024</a> |
-  <a href="https://github.com/simran-Tiwari?tab=overview&from=2025-01-01&to=2025-12-31">2025</a>
-</p>
 
