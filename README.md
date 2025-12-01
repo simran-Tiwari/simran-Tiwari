@@ -1,82 +1,36 @@
-Here is a **clean, professional, complete MAIN GitHub README** for your profile — polished, simple, and ready to copy-paste into your `README.md`:
+Hey there 👋, welcome to my little corner of code — Simran here
 
----
+I’m a coder fueled by curiosity, coffee, and a desire to turn ideas into reality. What started as a simple fascination — “what happens if I write this line?” — has grown into a passion for building, experimenting, and delivering real-world solutions.
 
-# 👋 Hi, I’m **Simran Tiwari**
+On GitHub, you’ll find my experiments, learnings, and projects — from clean, intuitive front-end interfaces to robust backend systems and cloud-integrated solutions. I enjoy writing readable code, refining solutions, and improving things one commit at a time.
 
-I’m a Full-Stack Developer and Cloud Enthusiast from India, passionate about building clean, scalable, and user-focused applications. What started as a small curiosity for how code works has grown into a strong foundation in frontend development, backend logic, and cloud infrastructure. I enjoy transforming ideas into reliable, production-ready solutions, writing maintainable code, and continuously improving through hands-on projects. My GitHub reflects everything I explore, learn, and build — one repository at a time.
+I’m always open to collaborating on meaningful, user-focused software. Let’s build something impactful together! 🚀
 
----
+🧠 Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react" width="45" /> <img src="https://skillicons.dev/icons?i=vite" width="45" /> <img src="https://skillicons.dev/icons?i=html" width="45" /> <img src="https://skillicons.dev/icons?i=css" width="45" /> <img src="https://skillicons.dev/icons?i=js" width="45" /> <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> <img src="https://skillicons.dev/icons?i=express" width="45" /> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git" width="45" /> <img src="https://skillicons.dev/icons?i=github" width="45" /> <img src="https://skillicons.dev/icons?i=vercel" width="45" /> <img src="https://skillicons.dev/icons?i=render" width="45" /> <img src="https://skillicons.dev/icons?i=postman" width="45" /> </p>
+Familiarity With Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=js" width="45" /> <img src="https://skillicons.dev/icons?i=python" width="45" /> <img src="https://skillicons.dev/icons?i=c" width="45" /> </p>
+🏆 GitHub Trophies
+<p> <img src="https://github-profile-trophy.vercel.app/?username=simran-Tiwari&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
+🔥 GitHub Contribution Streak
+<p> <img src="https://streak-stats.demolab.com?user=simran-Tiwari&theme=tokyonight" height="180" /> </p>
+👀 GitHub Profile Views
 
-## 🛠️ **Tech Stack**
+📌 Pinned Projects
+🌐 Zoomera
 
-### **Frontend**
+A full-featured platform for collaborative work and team management. Designed to streamline workflows, improve productivity, and provide seamless user experiences.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="45" />
-  <img src="https://skillicons.dev/icons?i=vite" width="45" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
-</p>
+Tech: React, Node.js, MongoDB,
 
-### **Backend**
+🛍️ Shopverse
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
-  <img src="https://skillicons.dev/icons?i=express" width="45" />
-</p>
+An e-commerce web application providing a smooth shopping experience with product browsing, cart management, and checkout functionality.
 
-### **Database**
+Tech: React, Firebase
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
-</p>
-
-### **Cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" width="45" />
-  <img src="https://skillicons.dev/icons?i=git" width="45" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="45" />
-  <img src="https://skillicons.dev/icons?i=render" width="45" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-Tiwari&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-Tiwari&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=simran-Tiwari&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 👀 **Profile Visitors**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=simran-Tiwari\&color=blue)
-
----
-
-## 🌐 **Connect With Me**
-
-* GitHub: **simran-Tiwari**
-* X (Twitter): **@s_tiwari0708**
-* LinkedIn: *(add link)*
-* LeetCode: *(add link)*
-
----
-
-If you want, I can also create:
-⭐ A banner/header image
-⭐ A “Featured Projects” section
-⭐ A more minimal or aesthetic version
-
-Just tell me!
