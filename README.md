@@ -6,11 +6,11 @@ On GitHub, you’ll find my experiments, learnings, and projects — from clean,
 
 I’m always open to collaborating on meaningful, user-focused software. Let’s build something impactful together! 🚀
 
-🧠 Tech Stack
+🧰 Tech Stack
 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=react" width="45" /> <img src="https://skillicons.dev/icons?i=vite" width="45" /> <img src="https://skillicons.dev/icons?i=html" width="45" /> <img src="https://skillicons.dev/icons?i=css" width="45" /> <img src="https://skillicons.dev/icons?i=js" width="45" /> <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html" width="45" /> <img src="https://skillicons.dev/icons?i=css" width="45" /> <img src="https://skillicons.dev/icons?i=js" width="45" /> <img src="https://skillicons.dev/icons?i=react" width="45" /> <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> <img src="https://skillicons.dev/icons?i=vite" width="45" /> </p>
 Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> <img src="https://skillicons.dev/icons?i=express" width="45" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> <img src="https://skillicons.dev/icons?i=express" width="45" /> <img src="https://skillicons.dev/icons?i=mongodb" width="45" /> </p>
 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git" width="45" /> <img src="https://skillicons.dev/icons?i=github" width="45" /> <img src="https://skillicons.dev/icons?i=vercel" width="45" /> <img src="https://skillicons.dev/icons?i=render" width="45" /> <img src="https://skillicons.dev/icons?i=postman" width="45" /> </p>
 Familiarity With Programming Languages
