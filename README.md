@@ -72,21 +72,3 @@ I’m always open to collaborating on meaningful, user-focused software. Let’s
 
 ---
 
-## 📌 Pinned Projects
-
-<div >
-
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px; width:300px; display:inline-block; vertical-align:top; text-align:left;">
-  <h3>🌐 Zoomera</h3>
-  <p>A full-featured video conferencing platform designed for seamless virtual meetings, online collaboration, and interactive sessions. Users can host, join, and manage meetings efficiently with features like screen sharing, chat, and scheduling.</p>
-  <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
-</div>
-
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px; width:300px; display:inline-block; vertical-align:top; text-align:left;">
-  <h3>🛍️ Shopverse</h3>
-  <p>An e-commerce web application providing a smooth shopping experience with product browsing, cart management, and checkout functionality.</p>
-  <p><strong>Tech:</strong> React, Firebase</p>
-</div>
-
-</div>
-
